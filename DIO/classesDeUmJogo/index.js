@@ -5,6 +5,7 @@ class Heroi {
         this.nome = nome;
         this.idade = idade;
         this.tipo = tipo;;
+        this.vida = 100;
     }
 
     atacar() {
